@@ -1,4 +1,4 @@
-# Create a first Python Function in the Azure portal
+# Create a first Python Function in the Azure portal 
 
 ## Create a Function App (if you don't have yet)
 
